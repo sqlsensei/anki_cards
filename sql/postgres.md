@@ -1,19 +1,22 @@
-# PostgreSQL
+# SQL::PostgreSQL
 
-## Esto se puede actualizar?
+## REPLACE
 
-<!-- notecardId: 1691015481652 -->
+<!-- notecardId: 1691717853024 -->
 
-
-Markdown is a lightweight markup language with plain-text-formatting syntax.
-Its design allows it to be converted to many output formats,
-but the original tool by the same name only supports HTML.
-<img src="https://media.giphy.com/media/WzR8zb0PN6bUmfz4DW/giphy.gif" alt="Lamp">
+<img src="https://raw.githubusercontent.com/sqlsensei/anki_cards/master/sql/images/postgres_replace.png">
 
 ## Who created Markdown?
 
-<!-- notecardId: 1691015481727 -->
+<!-- notecardId: 1691717853083 -->
 
 
 John Gruber created the Markdown language in 2004 in collaboration with
 Aaron Swartz on the syntax.
+
+## Update
+
+<!-- notecardId: 1691808588199 -->
+<div class="container text-left">
+    Este texto es de prueba
+</div>

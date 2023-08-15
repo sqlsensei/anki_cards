@@ -63,6 +63,10 @@ hr {
   color: var(--main-blue1-color);
 }
 
+.text-left {
+  text-align: left;
+}
+
 .mobile .night_mode .container {
   color: var(--main-yellow-color);
 }
@@ -107,4 +111,11 @@ hr {
 
 .mobile .night_mode .cloze {
   color: #00bfff;
+}
+
+mark { 
+  background-color: #95d1ff;
+  color: black;
+  padding: 0em 0.5em 0em;
+  border-radius: 25px;
 }
